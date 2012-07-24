@@ -1,0 +1,1 @@
+Parallel computational server using MPI. Master sends the tasks to slaves, and gather the results as soon as they are ready.
